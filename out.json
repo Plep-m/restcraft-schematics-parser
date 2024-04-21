@@ -1,0 +1,882 @@
+{
+    "startingPosition": {
+        "x": 0,
+        "y": 40,
+        "z": 0
+    },
+    "blocks": [
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -16,
+                "y": 0,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "lever",
+            "facing": "east",
+            "relativePosition": {
+                "x": -16,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -15,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -15,
+                "y": 0,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -15,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "comparator",
+            "facing": "west",
+            "relativePosition": {
+                "x": -15,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 1
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 1
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -14,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -13,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "south",
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "north",
+            "relativePosition": {
+                "x": -12,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 3,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -12,
+                "y": 3,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "south",
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "north",
+            "relativePosition": {
+                "x": -11,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 3,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -11,
+                "y": 3,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "dispenser",
+            "facing": "up",
+            "relativePosition": {
+                "x": -10,
+                "y": 0,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "south",
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "north",
+            "relativePosition": {
+                "x": -10,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 3,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -10,
+                "y": 3,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "south",
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "north",
+            "relativePosition": {
+                "x": -9,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 3,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -9,
+                "y": 3,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 0,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "south",
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 3
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 4
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 5
+            }
+        },
+        {
+            "blockName": "warped_nylium",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 6
+            }
+        },
+        {
+            "blockName": "piston",
+            "facing": "north",
+            "relativePosition": {
+                "x": -8,
+                "y": 1,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 2,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "deepslate_bricks",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 3,
+                "z": 0
+            }
+        },
+        {
+            "blockName": "redstone_wire",
+            "facing": null,
+            "relativePosition": {
+                "x": -8,
+                "y": 3,
+                "z": 7
+            }
+        }
+    ]
+}
